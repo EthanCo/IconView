@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="IconView">
+        <attr name="iconSrc" format="reference" />
+        <attr name="iconText" format="string" />
+        <attr name="iconTextSize" format="dimension" />
+        <attr name="iconTextColor" format="color|reference" />
+        <attr name="canClick" format="boolean"/>
+    </declare-styleable>
+</resources>
